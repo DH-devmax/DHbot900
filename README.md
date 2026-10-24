@@ -4,7 +4,7 @@
 
 DH BOT 是 Rust 协议与共享业务核心、React Web 管理端和 Windows Tauri 群管理工作台。
 
-本仓库保留为公开源码及旺商聊适配参考。后续私用 AI、知识库和 Telegram 接入转向
+本仓库保留为公开源码及wangsl适配参考。后续私用 AI、知识库和 Telegram 接入转向
 [AstrBot fork](https://github.com/DH-devmax/AstrBot)。旺商聊插件尚未实现，边界见
 [交接说明](docs/ASTRBOT-HANDOFF.md)。这不是所有功能均已验收的稳定发行版。
 
